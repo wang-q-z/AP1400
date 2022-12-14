@@ -1,0 +1,3 @@
+/home/wqz/code/AP1400/hw2/build/CMakeFiles/main.dir
+/home/wqz/code/AP1400/hw2/build/CMakeFiles/edit_cache.dir
+/home/wqz/code/AP1400/hw2/build/CMakeFiles/rebuild_cache.dir
